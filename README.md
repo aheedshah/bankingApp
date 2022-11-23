@@ -1,5 +1,5 @@
 # bankingApp
-This is a project I made using JavaScript which is a Banking App in which you can transfer money, login account, see your balance, etc.
+This is a project made using JavaScript which is a Banking App in which you can transfer money, login account, see your balance, etc.
 
 Some of the usernames you can use while running the app: 
 
